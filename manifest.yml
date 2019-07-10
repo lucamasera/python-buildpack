@@ -220,8 +220,6 @@ dependencies:
   - cflinuxfs3
   source: https://www.python.org/ftp/python/3.7.3/Python-3.7.3.tgz
   source_sha256: d62e3015f2f89c970ac52343976b406694931742fbde2fed8d1ce8ebb4e1f8ff
-  modules:
-  - mysql
 - name: python
   version: 3.7.4
   uri: https://buildpacks.cloudfoundry.org/dependencies/python/python-3.7.4-linux-x64-cflinuxfs3-844697ea.tgz
